@@ -7,3 +7,5 @@ I'm a full stack developer experienced in collecting, processing and visualizing
 I primarily write code in Javascript, TypeScript, Svelte as well as d3.js + SVG for Interactive Data Visualization. 
 
 You can find out more about the services I offer on my company Homepage [TinyCloud GmbH](https://www.tinycloud.io).
+
+Reach me by email 📫 [matthias@tinycloud.io](mailto:matthias@tinycloud.io?subject=GitHub-Profile)
